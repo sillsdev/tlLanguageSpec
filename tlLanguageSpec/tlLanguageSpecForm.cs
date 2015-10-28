@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,25 +29,45 @@ namespace tlLanguageSpec
             cldrFullPath.Text = dlg.SelectedPath;
         }
 
-        private static ArrayList _lang = new ArrayList();
-
-        private void comboBox1_MouseEnter(object sender, EventArgs e)
+        private void langCombo_MouseEnter(object sender, EventArgs e)
         {
-            if (comboBox1.Items.Count == 0)
+            if (langCombo.Items.Count == 0)
             {
                 var cldrMain = new CldrLang(UiLang, cldrFullPath.Text);
-                comboBox1.Items.AddRange(cldrMain.NameWithCode());
+                langCombo.Items.AddRange(cldrMain.NameWithCode());
             }
         }
 
         private void ok_Click(object sender, EventArgs e)
         {
-            var lText = comboBox1.SelectedItem.ToString();
-            var openParen = lText.IndexOf("(") + 1;
-            var len = lText.IndexOf(")") - openParen;
+            var code = GetCode();
+            var lang = new TlLanguage(UiLang, code, cldrFullPath.Text);
+            lang.Parse(fontName.Text, countryCombo.Text);
+        }
+
+        private string GetCode()
+        {
+            var lText = langCombo.SelectedItem.ToString();
+            if (string.IsNullOrEmpty(lText) || !lText.Contains("(") || !lText.Contains(")"))
+                return "";
+            var openParen = lText.IndexOf("(", StringComparison.Ordinal) + 1;
+            var len = lText.IndexOf(")", StringComparison.Ordinal) - openParen;
             var code = lText.Substring(openParen, len);
-            var lang = new tlLanguage(code, cldrFullPath.Text);
-            lang.Parse();
+            return code;
+        }
+
+        private void fontButton_Click(object sender, EventArgs e)
+        {
+            var dlg = new FontDialog();
+            dlg.ShowDialog();
+            fontName.Text = dlg.Font.Name;
+        }
+
+        private void langCombo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            var cldrMain = new CldrLang(UiLang, cldrFullPath.Text);
+            countryCombo.Items.AddRange(cldrMain.Countries(GetCode()));
+            countryCombo.SelectedIndex = 0;
         }
 
     }
