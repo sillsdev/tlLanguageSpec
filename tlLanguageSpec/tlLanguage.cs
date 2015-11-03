@@ -5,6 +5,8 @@ using System.Globalization;
 using System.IO;
 using System.Net;
 using System.Xml;
+using Newtonsoft.Json;
+using Formatting = Newtonsoft.Json.Formatting;
 
 namespace tlLanguageSpec
 {
@@ -111,6 +113,11 @@ namespace tlLanguageSpec
             Debug.Assert(node != null, "node != null");
             AppendChild(name, node.InnerText);
             return node.InnerText;
+        }
+
+        public void Write(StreamWriter writer)
+        {
+            writer.WriteLine(JsonConvert.SerializeXmlNode(_lang, Formatting.Indented, true));
         }
     }
 }

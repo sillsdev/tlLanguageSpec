@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Newtonsoft.Json;
 
 namespace tlLanguageSpec
 {
@@ -43,6 +44,24 @@ namespace tlLanguageSpec
             var code = GetCode();
             var lang = new TlLanguage(UiLang, code, cldrFullPath.Text);
             lang.Parse(fontName.Text, countryCombo.Text);
+            var dlg = new SaveFileDialog {DefaultExt = ".json", AddExtension = true, CheckPathExists = true};
+            dlg.ShowDialog();
+            if (File.Exists(dlg.FileName))
+            {
+                switch (MessageBox.Show("File exists, Replace it", "Already Exists!", MessageBoxButtons.YesNoCancel,
+                    MessageBoxIcon.Question))
+                {
+                    case DialogResult.Yes:
+                        break;
+                    case DialogResult.No:
+                    case DialogResult.Cancel:
+                        return;
+                }
+            }
+            var writer = new StreamWriter(dlg.FileName);
+            lang.Write(writer);
+            writer.Close();
+            MessageBox.Show(string.Format("Json written to {0}", dlg.FileName), "Results", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private string GetCode()

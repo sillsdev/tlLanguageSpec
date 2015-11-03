@@ -9,7 +9,8 @@ namespace tlLanguageSpec
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application.Newtonsoft
+        /// <remarks>http://json.codeplex.com/</remarks>
         /// </summary>
         [STAThread]
         static void Main()
