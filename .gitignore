@@ -7,6 +7,7 @@
 */bin/*
 
 # Libraries
+packages/*
 *.lib
 *.a
 
@@ -26,3 +27,4 @@
 
 #Visual Studio
 *.suo
+*.user
