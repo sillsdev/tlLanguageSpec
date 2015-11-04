@@ -41,6 +41,8 @@
             this.fontButton = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.countryCombo = new System.Windows.Forms.ComboBox();
+            this.keyboardCombo = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -110,7 +112,7 @@
             // 
             // ok
             // 
-            this.ok.Location = new System.Drawing.Point(402, 166);
+            this.ok.Location = new System.Drawing.Point(402, 200);
             this.ok.Name = "ok";
             this.ok.Size = new System.Drawing.Size(75, 23);
             this.ok.TabIndex = 6;
@@ -121,7 +123,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 148);
+            this.label4.Location = new System.Drawing.Point(13, 182);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(40, 17);
             this.label4.TabIndex = 8;
@@ -129,14 +131,14 @@
             // 
             // fontName
             // 
-            this.fontName.Location = new System.Drawing.Point(95, 145);
+            this.fontName.Location = new System.Drawing.Point(95, 179);
             this.fontName.Name = "fontName";
             this.fontName.Size = new System.Drawing.Size(164, 22);
             this.fontName.TabIndex = 4;
             // 
             // fontButton
             // 
-            this.fontButton.Location = new System.Drawing.Point(274, 145);
+            this.fontButton.Location = new System.Drawing.Point(274, 179);
             this.fontButton.Name = "fontButton";
             this.fontButton.Size = new System.Drawing.Size(101, 23);
             this.fontButton.TabIndex = 5;
@@ -161,12 +163,31 @@
             this.countryCombo.Size = new System.Drawing.Size(213, 24);
             this.countryCombo.TabIndex = 3;
             // 
+            // keyboardCombo
+            // 
+            this.keyboardCombo.FormattingEnabled = true;
+            this.keyboardCombo.Location = new System.Drawing.Point(95, 141);
+            this.keyboardCombo.Name = "keyboardCombo";
+            this.keyboardCombo.Size = new System.Drawing.Size(213, 24);
+            this.keyboardCombo.TabIndex = 12;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(13, 144);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(73, 17);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Keyboard:";
+            // 
             // TlLangSpec
             // 
             this.AcceptButton = this.ok;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(491, 201);
+            this.ClientSize = new System.Drawing.Size(491, 238);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.keyboardCombo);
             this.Controls.Add(this.countryCombo);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.fontButton);
@@ -202,6 +223,8 @@
         private System.Windows.Forms.Button fontButton;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox countryCombo;
+        private System.Windows.Forms.ComboBox keyboardCombo;
+        private System.Windows.Forms.Label label6;
     }
 }
 

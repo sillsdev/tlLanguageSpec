@@ -1,9 +1,15 @@
-﻿using System;
-using System.CodeDom;
+﻿// ---------------------------------------------------------------------------------------------
+#region // Copyright (c) 2015, SIL International.
+// <copyright from='2015' to='2015' company='SIL International'>
+//		Copyright (c) 2015, SIL International.
+//    
+//		This software is distributed under the MIT License, as specified in the LICENSE.txt file.
+// </copyright> 
+#endregion
+// 
+using System;
 using System.Diagnostics;
-using System.Globalization;
 using System.IO;
-using System.Net;
 using System.Xml;
 using Newtonsoft.Json;
 using Formatting = Newtonsoft.Json.Formatting;
@@ -18,16 +24,24 @@ namespace tlLanguageSpec
         private readonly XmlDocument _cldrKeyboard = new XmlDocument { XmlResolver = null };
         private readonly XmlDocument _lang = new XmlDocument { XmlResolver = null };
 
-        public TlLanguage(string uiLang, string code, string cldrFullPath)
+        public TlLanguage(string uiLang, string code, string cldrFullPath, string keyboard)
         {
             var uiFullName = Path.Combine(cldrFullPath, "main", uiLang + ".xml");
             _cldrUiMain.Load(uiFullName);
             _code = code;
             var mainFullName = Path.Combine(cldrFullPath, "main", code + ".xml");
             _cldrMain.Load(mainFullName);
-            var cldrKeyboardSpec = Path.Combine(cldrFullPath, "keyboards", "windows");
-            var keyboardFiles = new DirectoryInfo(cldrKeyboardSpec).GetFiles(code + "*.xml");
-            _cldrKeyboard.Load(keyboardFiles[0].FullName);
+            var cldrKeyboardFullSpec = Path.Combine(cldrFullPath, "keyboards", "windows");
+            var cldrKeyboardFullNames = new DirectoryInfo(cldrKeyboardFullSpec).GetFiles(code + "-*.xml");
+            foreach (FileInfo fileInfo in cldrKeyboardFullNames)
+            {
+                _cldrKeyboard.RemoveAll();
+                _cldrKeyboard.Load(fileInfo.FullName);
+                var keyboardNameNode = _cldrKeyboard.SelectSingleNode("//name/@value");
+                Debug.Assert(keyboardNameNode != null, "keyboardNameNode != null");
+                if (keyboardNameNode.InnerText == keyboard)
+                    break;
+            }
         }
 
         public void Parse(string fontName, string country)
@@ -91,6 +105,20 @@ namespace tlLanguageSpec
 
         }
 
+        public void Keyboard()
+        {
+            var keyboard = _lang.CreateElement("keyboard");
+            Debug.Assert(_lang.DocumentElement != null, "_lang.DocumentElement != null");
+            _lang.DocumentElement.AppendChild(keyboard);
+            var layout = _lang.CreateElement("layout");
+            keyboard.AppendChild(layout);
+            var keyboardName = _lang.CreateElement("name");
+            var selectSingleNode = _cldrKeyboard.SelectSingleNode("//name/@value");
+            if (selectSingleNode != null)
+                keyboardName.InnerText = selectSingleNode.InnerText;
+            keyboard.AppendChild(keyboardName);
+        }
+
         private void AppendChild(string name, string value)
         {
             var e = _lang.CreateElement(name);
@@ -102,14 +130,6 @@ namespace tlLanguageSpec
         private string AppendChildUiXpath(string name, string xpath)
         {
             var node = _cldrUiMain.SelectSingleNode(xpath);
-            Debug.Assert(node != null, "node != null");
-            AppendChild(name, node.InnerText);
-            return node.InnerText;
-        }
-
-        private string AppendChildMainXpath(string name, string xpath)
-        {
-            var node = _cldrMain.SelectSingleNode(xpath);
             Debug.Assert(node != null, "node != null");
             AppendChild(name, node.InnerText);
             return node.InnerText;

@@ -1,7 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿// ---------------------------------------------------------------------------------------------
+#region // Copyright (c) 2015, SIL International.
+// <copyright from='2015' to='2015' company='SIL International'>
+//		Copyright (c) 2015, SIL International.
+//    
+//		This software is distributed under the MIT License, as specified in the LICENSE.txt file.
+// </copyright> 
+#endregion
+//
+using System;
 using System.Windows.Forms;
 
 namespace tlLanguageSpec

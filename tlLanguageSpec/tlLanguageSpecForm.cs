@@ -1,4 +1,13 @@
-﻿using System;
+﻿// ---------------------------------------------------------------------------------------------
+#region // Copyright (c) 2015, SIL International.
+// <copyright from='2015' to='2015' company='SIL International'>
+//		Copyright (c) 2015, SIL International.
+//    
+//		This software is distributed under the MIT License, as specified in the LICENSE.txt file.
+// </copyright> 
+#endregion
+// 
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +18,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
 
 namespace tlLanguageSpec
 {
@@ -42,22 +50,11 @@ namespace tlLanguageSpec
         private void ok_Click(object sender, EventArgs e)
         {
             var code = GetCode();
-            var lang = new TlLanguage(UiLang, code, cldrFullPath.Text);
+            var lang = new TlLanguage(UiLang, code, cldrFullPath.Text, keyboardCombo.Text);
             lang.Parse(fontName.Text, countryCombo.Text);
+            lang.Keyboard();
             var dlg = new SaveFileDialog {DefaultExt = ".json", AddExtension = true, CheckPathExists = true};
             dlg.ShowDialog();
-            if (File.Exists(dlg.FileName))
-            {
-                switch (MessageBox.Show("File exists, Replace it", "Already Exists!", MessageBoxButtons.YesNoCancel,
-                    MessageBoxIcon.Question))
-                {
-                    case DialogResult.Yes:
-                        break;
-                    case DialogResult.No:
-                    case DialogResult.Cancel:
-                        return;
-                }
-            }
             var writer = new StreamWriter(dlg.FileName);
             lang.Write(writer);
             writer.Close();
@@ -85,8 +82,11 @@ namespace tlLanguageSpec
         private void langCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
             var cldrMain = new CldrLang(UiLang, cldrFullPath.Text);
-            countryCombo.Items.AddRange(cldrMain.Countries(GetCode()));
+            var code = GetCode();
+            countryCombo.Items.AddRange(cldrMain.Countries(code));
             countryCombo.SelectedIndex = 0;
+            keyboardCombo.Items.AddRange(cldrMain.Keyboards(code));
+            keyboardCombo.SelectedIndex = 0;
         }
 
     }
