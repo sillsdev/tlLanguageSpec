@@ -194,1915 +194,1917 @@
         "007C",
         "007E"
     ],
-    "keyboard": {
-        "layout": {
-            "keysets": [
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "0060",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "13E313B313A9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "13A313CF13F2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "13E913D9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "13D9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "13E6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "13DC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "13CB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "13D6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "13D2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "13C4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "13BF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "13F3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "13AA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "13B3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "13A1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "13DB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "13D4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "13EF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "13A4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "13A2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "13A3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "13C1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "13D5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "13B6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13A0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "13CD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "13D7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "13A9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "13A6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "13AF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "13DA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "13B8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "13B5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "13E8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 35,
-                            "codepoint": "0027",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13E9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "13AC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "13F4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "13D3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "13A5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "13A8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "13BE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "13C5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "002C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "002E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "13C2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 47,
-                            "codepoint": "0020",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "N",
-                    "mod_state": "N"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "13CA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "13B1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "13C7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "13E7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "13B0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "13B9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "13DD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "13E1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "13BA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0028",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0029",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "13BC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "13BD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "13C6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "13EB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "13E3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "13CF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "13D8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "13F2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "13AD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "13F1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "13EC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "13EA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "13D1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "13E4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13CC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "13CE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "13D0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "13C8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "13E5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "13B2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "13AB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "13A7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "13AE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "13E0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 35,
-                            "codepoint": "0022",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13EE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "13C3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "13ED",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "13DF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "13DE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "13F0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "13BB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "13B7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "13E2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "13B4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "13C9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 47,
-                            "codepoint": "0020",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "S",
-                    "mod_state": "N"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "0060",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "13D9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "13E6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "13DC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "13CB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "13D6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "13D2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "13C4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "13BF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "13F3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "13C6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "13EB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "13E3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "13CF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "13D8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "13F2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "13AD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "13F1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "13EC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "13EA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "13D5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "13B6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13CC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "13CE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "13D0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "13C8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "13E5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "13B2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "13AB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "13A7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "13AE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "13E8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 35,
-                            "codepoint": "0027",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13E9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "13C3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "13ED",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "13DF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "13DE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "13F0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "13BB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "13B7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "002C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "002E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "13C2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 47,
-                            "codepoint": "0020",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "C",
-                    "mod_state": "N"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "13CA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "13B1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "13C7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "13E7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "13B0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "13B9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "13DD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "13E1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "13BA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0028",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0029",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "13BC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "13BD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "13AA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "13B3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "13A1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "13DB",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "13D4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "13EF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "13A4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "13A2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "13A3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "13C1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "13D1",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "13E4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13A0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "13CD",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "13D7",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "13A9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "13A6",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "13AF",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "13DA",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "13B8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "13B5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "13E0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 35,
-                            "codepoint": "0022",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "13EE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "13AC",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "13F4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "13D3",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "13A5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "13A8",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "13BE",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "13C5",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "13E2",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "13B4",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "13C9",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 47,
-                            "codepoint": "0020",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "CS",
-                    "mod_state": "N"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "13C0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "0031",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "0032",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "0033",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "0034",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "0035",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "0036",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "0037",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "0038",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0039",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0030",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "002D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "003D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "0071",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "0077",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "0065",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "0072",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "0074",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "0079",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "0075",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "0069",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "006F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "0070",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "005B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "005D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "0061",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "0073",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "0064",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "0066",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "0067",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "0068",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "006A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "006B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "006C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "003B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "005C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "007A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "0078",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "0063",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "0076",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "0062",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "006E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "006D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "003C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "003E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "002F",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "N",
-                    "mod_state": "L"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "13C0",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "0031",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "0032",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "0033",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "0034",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "0035",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "0036",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "0037",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "0038",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0039",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0030",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "002D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "003D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "0071",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "0077",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "0065",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "0072",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "0074",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "0079",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "0075",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "0069",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "006F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "0070",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "005B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "005D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "0061",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "0073",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "0064",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "0066",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "0067",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "0068",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "006A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "006B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "006C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "003B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "005C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "007A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "0078",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "0063",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "0076",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "0062",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "006E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "006D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 44,
-                            "codepoint": "003C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 45,
-                            "codepoint": "003E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "002F",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "C",
-                    "mod_state": "L"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "007E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "0021",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "0040",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "0023",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "0024",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "0025",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "005E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "0026",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "002A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0028",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0029",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "005F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "002B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "0051",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "0057",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "0045",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "0052",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "0054",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "0059",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "0055",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "0049",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "004F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "0050",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "007B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "007D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "0041",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "0053",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "0044",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "0046",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "0047",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "0048",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "004A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "004B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "004C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "003A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "007C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "005A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "0058",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "0043",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "0056",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "0042",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "004E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "004D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "003F",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "S",
-                    "mod_state": "L"
-                },
-                {
-                    "keys": [
-                        {
-                            "key_number": 0,
-                            "codepoint": "007E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 1,
-                            "codepoint": "0021",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 2,
-                            "codepoint": "0040",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 3,
-                            "codepoint": "0023",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 4,
-                            "codepoint": "0024",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 5,
-                            "codepoint": "0025",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 6,
-                            "codepoint": "005E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 7,
-                            "codepoint": "0026",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 8,
-                            "codepoint": "002A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 9,
-                            "codepoint": "0028",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 10,
-                            "codepoint": "0029",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 11,
-                            "codepoint": "005F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 12,
-                            "codepoint": "002B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 13,
-                            "codepoint": "0051",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 14,
-                            "codepoint": "0057",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 15,
-                            "codepoint": "0045",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 16,
-                            "codepoint": "0052",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 17,
-                            "codepoint": "0054",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 18,
-                            "codepoint": "0059",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 19,
-                            "codepoint": "0055",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 20,
-                            "codepoint": "0049",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 21,
-                            "codepoint": "004F",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 22,
-                            "codepoint": "0050",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 23,
-                            "codepoint": "007B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 24,
-                            "codepoint": "007D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "0041",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 26,
-                            "codepoint": "0053",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 27,
-                            "codepoint": "0044",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 28,
-                            "codepoint": "0046",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 29,
-                            "codepoint": "0047",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 30,
-                            "codepoint": "0048",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 31,
-                            "codepoint": "004A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 32,
-                            "codepoint": "004B",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 33,
-                            "codepoint": "004C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 34,
-                            "codepoint": "003A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 25,
-                            "codepoint": "007C",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 37,
-                            "codepoint": "005A",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 38,
-                            "codepoint": "0058",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 39,
-                            "codepoint": "0043",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 40,
-                            "codepoint": "0056",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 41,
-                            "codepoint": "0042",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 42,
-                            "codepoint": "004E",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 43,
-                            "codepoint": "004D",
-                            "deadkeys": []
-                        },
-                        {
-                            "key_number": 46,
-                            "codepoint": "003F",
-                            "deadkeys": []
-                        }
-                    ],
-                    "cap_state": "CS",
-                    "mod_state": "L"
-                }
-            ],
-            "supplements": [],
-            "type": 1
-        },
-        "name": "Cherokee Nation"
-    },
+    "keyboard": [
+		{
+			"layout": {
+				"keysets": [
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "0060",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "13E313B313A9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "13A313CF13F2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "13E913D9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "13D9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "13E6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "13DC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "13CB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "13D6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "13D2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "13C4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "13BF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "13F3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "13AA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "13B3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "13A1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "13DB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "13D4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "13EF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "13A4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "13A2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "13A3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "13C1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "13D5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "13B6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13A0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "13CD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "13D7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "13A9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "13A6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "13AF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "13DA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "13B8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "13B5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "13E8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 35,
+								"codepoint": "0027",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13E9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "13AC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "13F4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "13D3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "13A5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "13A8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "13BE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "13C5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "002C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "002E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "13C2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 47,
+								"codepoint": "0020",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "N",
+						"mod_state": "N"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "13CA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "13B1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "13C7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "13E7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "13B0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "13B9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "13DD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "13E1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "13BA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0028",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0029",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "13BC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "13BD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "13C6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "13EB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "13E3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "13CF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "13D8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "13F2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "13AD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "13F1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "13EC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "13EA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "13D1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "13E4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13CC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "13CE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "13D0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "13C8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "13E5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "13B2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "13AB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "13A7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "13AE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "13E0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 35,
+								"codepoint": "0022",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13EE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "13C3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "13ED",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "13DF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "13DE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "13F0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "13BB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "13B7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "13E2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "13B4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "13C9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 47,
+								"codepoint": "0020",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "S",
+						"mod_state": "N"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "0060",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "13D9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "13E6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "13DC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "13CB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "13D6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "13D2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "13C4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "13BF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "13F3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "13C6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "13EB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "13E3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "13CF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "13D8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "13F2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "13AD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "13F1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "13EC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "13EA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "13D5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "13B6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13CC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "13CE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "13D0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "13C8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "13E5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "13B2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "13AB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "13A7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "13AE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "13E8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 35,
+								"codepoint": "0027",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13E9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "13C3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "13ED",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "13DF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "13DE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "13F0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "13BB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "13B7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "002C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "002E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "13C2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 47,
+								"codepoint": "0020",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "C",
+						"mod_state": "N"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "13CA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "13B1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "13C7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "13E7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "13B0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "13B9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "13DD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "13E1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "13BA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0028",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0029",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "13BC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "13BD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "13AA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "13B3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "13A1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "13DB",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "13D4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "13EF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "13A4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "13A2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "13A3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "13C1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "13D1",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "13E4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13A0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "13CD",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "13D7",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "13A9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "13A6",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "13AF",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "13DA",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "13B8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "13B5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "13E0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 35,
+								"codepoint": "0022",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "13EE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "13AC",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "13F4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "13D3",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "13A5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "13A8",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "13BE",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "13C5",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "13E2",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "13B4",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "13C9",
+								"deadkeys": []
+							},
+							{
+								"key_number": 47,
+								"codepoint": "0020",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "CS",
+						"mod_state": "N"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "13C0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "0031",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "0032",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "0033",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "0034",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "0035",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "0036",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "0037",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "0038",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0039",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0030",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "002D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "003D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "0071",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "0077",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "0065",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "0072",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "0074",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "0079",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "0075",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "0069",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "006F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "0070",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "005B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "005D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "0061",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "0073",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "0064",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "0066",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "0067",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "0068",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "006A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "006B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "006C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "003B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "005C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "007A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "0078",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "0063",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "0076",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "0062",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "006E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "006D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "003C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "003E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "002F",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "N",
+						"mod_state": "L"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "13C0",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "0031",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "0032",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "0033",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "0034",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "0035",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "0036",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "0037",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "0038",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0039",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0030",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "002D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "003D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "0071",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "0077",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "0065",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "0072",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "0074",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "0079",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "0075",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "0069",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "006F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "0070",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "005B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "005D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "0061",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "0073",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "0064",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "0066",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "0067",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "0068",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "006A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "006B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "006C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "003B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "005C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "007A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "0078",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "0063",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "0076",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "0062",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "006E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "006D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 44,
+								"codepoint": "003C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 45,
+								"codepoint": "003E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "002F",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "C",
+						"mod_state": "L"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "007E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "0021",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "0040",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "0023",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "0024",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "0025",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "005E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "0026",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "002A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0028",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0029",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "005F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "002B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "0051",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "0057",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "0045",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "0052",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "0054",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "0059",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "0055",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "0049",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "004F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "0050",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "007B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "007D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "0041",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "0053",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "0044",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "0046",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "0047",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "0048",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "004A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "004B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "004C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "003A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "007C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "005A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "0058",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "0043",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "0056",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "0042",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "004E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "004D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "003F",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "S",
+						"mod_state": "L"
+					},
+					{
+						"keys": [
+							{
+								"key_number": 0,
+								"codepoint": "007E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 1,
+								"codepoint": "0021",
+								"deadkeys": []
+							},
+							{
+								"key_number": 2,
+								"codepoint": "0040",
+								"deadkeys": []
+							},
+							{
+								"key_number": 3,
+								"codepoint": "0023",
+								"deadkeys": []
+							},
+							{
+								"key_number": 4,
+								"codepoint": "0024",
+								"deadkeys": []
+							},
+							{
+								"key_number": 5,
+								"codepoint": "0025",
+								"deadkeys": []
+							},
+							{
+								"key_number": 6,
+								"codepoint": "005E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 7,
+								"codepoint": "0026",
+								"deadkeys": []
+							},
+							{
+								"key_number": 8,
+								"codepoint": "002A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 9,
+								"codepoint": "0028",
+								"deadkeys": []
+							},
+							{
+								"key_number": 10,
+								"codepoint": "0029",
+								"deadkeys": []
+							},
+							{
+								"key_number": 11,
+								"codepoint": "005F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 12,
+								"codepoint": "002B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 13,
+								"codepoint": "0051",
+								"deadkeys": []
+							},
+							{
+								"key_number": 14,
+								"codepoint": "0057",
+								"deadkeys": []
+							},
+							{
+								"key_number": 15,
+								"codepoint": "0045",
+								"deadkeys": []
+							},
+							{
+								"key_number": 16,
+								"codepoint": "0052",
+								"deadkeys": []
+							},
+							{
+								"key_number": 17,
+								"codepoint": "0054",
+								"deadkeys": []
+							},
+							{
+								"key_number": 18,
+								"codepoint": "0059",
+								"deadkeys": []
+							},
+							{
+								"key_number": 19,
+								"codepoint": "0055",
+								"deadkeys": []
+							},
+							{
+								"key_number": 20,
+								"codepoint": "0049",
+								"deadkeys": []
+							},
+							{
+								"key_number": 21,
+								"codepoint": "004F",
+								"deadkeys": []
+							},
+							{
+								"key_number": 22,
+								"codepoint": "0050",
+								"deadkeys": []
+							},
+							{
+								"key_number": 23,
+								"codepoint": "007B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 24,
+								"codepoint": "007D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "0041",
+								"deadkeys": []
+							},
+							{
+								"key_number": 26,
+								"codepoint": "0053",
+								"deadkeys": []
+							},
+							{
+								"key_number": 27,
+								"codepoint": "0044",
+								"deadkeys": []
+							},
+							{
+								"key_number": 28,
+								"codepoint": "0046",
+								"deadkeys": []
+							},
+							{
+								"key_number": 29,
+								"codepoint": "0047",
+								"deadkeys": []
+							},
+							{
+								"key_number": 30,
+								"codepoint": "0048",
+								"deadkeys": []
+							},
+							{
+								"key_number": 31,
+								"codepoint": "004A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 32,
+								"codepoint": "004B",
+								"deadkeys": []
+							},
+							{
+								"key_number": 33,
+								"codepoint": "004C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 34,
+								"codepoint": "003A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 25,
+								"codepoint": "007C",
+								"deadkeys": []
+							},
+							{
+								"key_number": 37,
+								"codepoint": "005A",
+								"deadkeys": []
+							},
+							{
+								"key_number": 38,
+								"codepoint": "0058",
+								"deadkeys": []
+							},
+							{
+								"key_number": 39,
+								"codepoint": "0043",
+								"deadkeys": []
+							},
+							{
+								"key_number": 40,
+								"codepoint": "0056",
+								"deadkeys": []
+							},
+							{
+								"key_number": 41,
+								"codepoint": "0042",
+								"deadkeys": []
+							},
+							{
+								"key_number": 42,
+								"codepoint": "004E",
+								"deadkeys": []
+							},
+							{
+								"key_number": 43,
+								"codepoint": "004D",
+								"deadkeys": []
+							},
+							{
+								"key_number": 46,
+								"codepoint": "003F",
+								"deadkeys": []
+							}
+						],
+						"cap_state": "CS",
+						"mod_state": "L"
+					}
+				],
+				"supplements": [],
+				"type": 1
+			},
+			"name": "Cherokee Nation"
+		}
+	],
     "content_code": "CHRus",
     "legacy_code": "CHEROKEE",
     "space_delimited": true,
     "ms_translate_code": null,
-    "polyglossia_code": "cherokee",
+    "polyglossia_code": null,
     "google_code": "chr",
-    "iso_639_1": "",
+    "iso_639_1": null,
     "iso_639_2": "chr",
     "iso_639_3": "chr",
     "iso_3166_2": "US",
