@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="14.2">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="tlLangResources.xpr">
+        <file name="file:/E:/proj/TransparentLangauge/Language%20support/arabic_language_support_example.json"/>
+        <file name="Cherokee.json"/>
+        <file name="file:/E:/Ref/cldr/keyboards/windows/chr-t-k0-windows-phonetic.xml"/>
+        <file name="file:/E:/Ref/cldr/keyboards/windows/chr-t-k0-windows.xml"/>
+        <file name="file:/E:/Ref/cldr/main/chr.xml"/>
+        <file name="file:/E:/Ref/cldr/main/en.xml"/>
+        <file name="http://www.loc.gov/standards/iso639-2/php/English_list.php"/>
+        <file name="file:/E:/proj/TransparentLangauge/Language%20support/gallifreyan_language_support_example.json"/>
+        <file name="https://sites.google.com/site/tomihasa/google-language-codes"/>
+        <file name="file:/E:/proj/TransparentLangauge/Language%20support/kannada_language_support_example.json"/>
+        <file name="file:/E:/proj/TransparentLangauge/Language%20support/language_support_data_outline.docx"/>
+        <file name="tlfontinfo.xml"/>
+        <file name="file:/E:/proj/TransparentLangauge/Language%20support/tlLanguage.rng"/>
+    </projectTree>
+</project>
