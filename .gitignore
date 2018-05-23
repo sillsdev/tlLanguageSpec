@@ -28,3 +28,7 @@ packages/*
 #Visual Studio
 *.suo
 *.user
+
+#Files
+Library of Congress Language Codes.htm
+Google Language Codes.htm
